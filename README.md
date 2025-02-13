@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">hey there im Nima Kian👋</h1>
 
-<!--
-**Nimakian0/nimakian0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="mailto:nimakianaghdam@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/Nimakian0/nimakian0/blob/main/profile-animation.gif?raw=true">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+### 👨‍💻 About Me :
+- I'm a Front-End Developer from Tabriz, Azerbaijan, Iran
+- Currently studying  Computer Science  at the  University of Tabriz
+- I'm learning ...
+
+
+---
+### 🛠️ Skills :
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js">
+
+---
+### ⚡ Github Stats :
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nimakian0&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimakian0&theme=dark">
+</p>
+
+
+
