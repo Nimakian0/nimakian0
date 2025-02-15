@@ -1,10 +1,10 @@
 <h1 align="center">hey there im Nima Kian👋</h1>
 
 <p align="center">
-  <a href="#">
+  <a href="https://t.me/nimakian0">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/nimakian0">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   <a href="mailto:nimakianaghdam@gmail.com">
@@ -20,9 +20,9 @@
 
 ---
 ### 👨‍💻 About Me :
-- I'm a Front-End Developer from Tabriz, Azerbaijan, Iran
-- Currently studying  Computer Science  at the  University of Tabriz
-- I'm learning ...
+- 💻 I'm a Front-End Developer from Tabriz, Azerbaijan, Iran
+- 🎓 I'm Currently studying  Computer Science  at the  University of Tabriz
+- 🎯 I'm learning ...
 
 
 ---
